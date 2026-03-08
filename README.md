@@ -1,16 +1,13 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=1EBEF7&background=6A763B00&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Venkat+Deepak!+%F0%9F%91%8B)](https://github.com/VenkatDeepak29/)
 
-<!--
-**VenkatDeepak29/VenkatDeepak29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔥 Driven By: A love for creating secure systems and solving problems before they arise.
 
-Here are some ideas to get you started:
+- 🔬 Constantly Learning: Discovering new ways to stay ahead of challenges in cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Collaborating With: People who share a passion for building better security tools and solutions.
+
+- 🚧 Seeking Challenges In: Exploring creative approaches to testing systems and tackling evolving risks.
+
+- 💡 Let's Talk About: Ideas, tools, and techniques that make cybersecurity exciting. 
+
+- 👤 Pronouns: He/Him
